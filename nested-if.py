@@ -8,4 +8,4 @@ if num >= 0:
         print("Positive number")
 else:
     print("Negative number")
-
+echo "This is testing1"
